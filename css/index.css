@@ -327,6 +327,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  width: 49%;
 }
 
 .about-wrap-card__summ {
@@ -342,7 +343,7 @@ body {
   font-family: Futura PT;
   font-style: normal;
   font-weight: normal;
-  font-size: 30px;
+  font-size: 29px;
   line-height: 38px;
   text-align: center;
   color: #212C4B;
@@ -1073,6 +1074,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  width: 49%;
 }
 
 .payments-wrap__summ {
